@@ -29,3 +29,8 @@ int main () {
     printf("Hello World !");
 }
 ```
+
+## En C#
+```
+Console.WriteLine("Hello, World!");
+```
