@@ -34,3 +34,17 @@ int main () {
 ```
 Console.WriteLine("Hello, World!");
 ```
+
+## En HTML
+```
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World</title>
+</head>
+<body>
+    <p>Hello world</p>
+</body>
+</html>
+```
