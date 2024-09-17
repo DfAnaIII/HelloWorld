@@ -59,3 +59,9 @@ public static void main(String[] args)
 }
 }
 ```
+## En PHP
+```
+<?php
+
+echo "Hello world!\n";
+```
