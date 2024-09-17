@@ -20,3 +20,12 @@ int main () {
     printf("Hello World !");
 }
 ```
+
+## En C++
+```
+#include <printf.h>
+
+int main () {
+    printf("Hello World !");
+}
+```
