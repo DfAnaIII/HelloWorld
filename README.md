@@ -48,3 +48,14 @@ Console.WriteLine("Hello, World!");
 </body>
 </html>
 ```
+
+## En Java
+```
+public Class Hello
+{
+public static void main(String[] args)
+{
+  System.out.println("Hello World !");
+}
+}
+```
