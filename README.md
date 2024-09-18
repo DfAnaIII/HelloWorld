@@ -107,3 +107,8 @@ void main()
     writeln("Hello world!");
 }
 ```
+
+## En Perl
+```
+print 'Hello world !';
+```
