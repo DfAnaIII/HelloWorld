@@ -84,4 +84,9 @@ program main
 end program main
 ```
 
+## En Lua
+```
+print 'hello world!'
+```
+
 
