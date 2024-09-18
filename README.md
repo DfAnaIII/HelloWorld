@@ -94,3 +94,8 @@ print 'hello world!'
 main(_) -> io:format("Hello world!").
 ```
 
+## En Clojure
+```
+(println "Hello world!")
+```
+
