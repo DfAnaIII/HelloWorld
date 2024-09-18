@@ -119,3 +119,8 @@ fun main() {
     println("Hello world!")
 }
 ```
+
+## En Swift
+```
+print("Hello world!")
+```
