@@ -65,6 +65,16 @@ public static void main(String[] args)
 
 echo "Hello world!\n";
 ```
+## En GO
+```
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello world!")
+}
+```
 
 ## En Ruby
 ```
@@ -89,4 +99,64 @@ end program main
 print 'hello world!'
 ```
 
+## En Erlang
+```
+main(_) -> io:format("Hello world!").
+```
 
+## En Clojure
+```
+(println "Hello world!")
+```
+
+## En D
+```
+import std.stdio;
+void main()
+{
+    writeln("Hello world!");
+}
+```
+
+## En Perl
+```
+print 'Hello world !';
+```
+
+## En Kotlin
+```
+fun main() {
+    println("Hello world!")
+}
+```
+
+## En Swift
+```
+print("Hello world!")
+```
+
+## En Rust
+```
+fn main() {
+    println!("Hello world!")
+}
+```
+
+## En Assembly
+```
+section .data
+    msg db "Hello world!", 0ah
+
+section .text
+    global _start
+
+_start:
+    mov rax, 1
+    mov rdi, 1
+    mov rsi, msg
+    mov rdx, 13
+    syscall
+    mov rax, 60
+    mov rdi, 0
+    syscall
+```
