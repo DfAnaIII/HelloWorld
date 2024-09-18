@@ -71,9 +71,17 @@ echo "Hello world!\n";
 puts "Hello world!"
 ```
 
+## En TypeScript
+```
+const message:string = "Hello world!";
+console.log(message);
+```
+
 ## En Fortran
 ```
 program main
     print *, "Hello world!"
 end program main
 ```
+
+
