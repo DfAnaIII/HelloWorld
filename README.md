@@ -65,3 +65,8 @@ public static void main(String[] args)
 
 echo "Hello world!\n";
 ```
+
+## En Ruby
+```
+puts "Hello world!"
+```
