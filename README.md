@@ -65,6 +65,16 @@ public static void main(String[] args)
 
 echo "Hello world!\n";
 ```
+## En GO
+```
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello world!")
+}
+```
 
 ## En Ruby
 ```
