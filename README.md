@@ -70,3 +70,10 @@ echo "Hello world!\n";
 ```
 puts "Hello world!"
 ```
+
+## En Fortran
+```
+program main
+    print *, "Hello world!"
+end program main
+```
