@@ -89,4 +89,8 @@ end program main
 print 'hello world!'
 ```
 
+## En Erlang
+```
+main(_) -> io:format("Hello world!").
+```
 
