@@ -124,3 +124,10 @@ fun main() {
 ```
 print("Hello world!")
 ```
+
+## En Rust
+```
+fn main() {
+    println!("Hello world!")
+}
+```
