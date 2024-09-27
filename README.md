@@ -20,6 +20,11 @@ _start:
     syscall
 ```
 
+## En Basic 
+```
+PRINT "Hello, World!"
+```
+
 ## En Python 
 ```
 print("Hello World !")
