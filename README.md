@@ -181,3 +181,7 @@ println "Hello, World!"
 ```
 System.out.println("Hello, World!");
 ```
+## En Haskell
+```
+main = putStrLn "Hello, World!"
+```
