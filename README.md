@@ -201,3 +201,7 @@ end Hello;
 ```
 (format t "Hello, World!")
 ```
+## En Elixir
+```
+IO.puts "Hello, World!"
+```
