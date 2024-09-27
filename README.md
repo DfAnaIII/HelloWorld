@@ -169,4 +169,7 @@ fn main() {
 ```
 console.log("Hello, World!");
 ```
-
+## En JavaScript
+```
+console.log("Hello, World!");
+```
