@@ -48,6 +48,15 @@ int main () {
 Console.WriteLine("Hello, World!");
 ```
 
+## En D
+```
+import std.stdio;
+void main()
+{
+    writeln("Hello world!");
+}
+```
+
 ## En Python 
 ```
 print("Hello World !")
@@ -130,15 +139,6 @@ main(_) -> io:format("Hello world!").
 ## En Clojure
 ```
 (println "Hello world!")
-```
-
-## En D
-```
-import std.stdio;
-void main()
-{
-    writeln("Hello world!");
-}
 ```
 
 ## En Perl
