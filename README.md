@@ -173,3 +173,7 @@ console.log("Hello, World!");
 ```
 console.log("Hello, World!");
 ```
+## En Groovy
+```
+println "Hello, World!"
+```
