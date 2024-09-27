@@ -185,3 +185,7 @@ System.out.println("Hello, World!");
 ```
 main = putStrLn "Hello, World!"
 ```
+## En TCL
+```
+puts "Hello, World!"
+```
