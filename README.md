@@ -214,3 +214,11 @@ IO.puts "Hello, World!"
 ```
 print_string "Hello, World!"
 ```
+## En VB
+```
+Public Module Program
+	Public Sub Main(args() As string)
+		Console.WriteLine("Hello, World!")
+	End Sub
+End Module
+```
