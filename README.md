@@ -210,3 +210,7 @@ IO.puts "Hello, World!"
 #lang racket/base
 (display "Hello, World!")
 ```
+## En Ocaml
+```
+print_string "Hello, World!"
+```
