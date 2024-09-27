@@ -25,6 +25,15 @@ _start:
 PRINT "Hello, World!"
 ```
 
+## En C
+```
+#include <printf.h>
+
+int main () {
+    printf("Hello World !");
+}
+```
+
 ## En Python 
 ```
 print("Hello World !")
@@ -35,14 +44,6 @@ print("Hello World !")
 print("Hello World !")
 ```
 
-## En C
-```
-#include <printf.h>
-
-int main () {
-    printf("Hello World !");
-}
-```
 
 ## En C++
 ```
