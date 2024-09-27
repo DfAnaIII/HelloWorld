@@ -43,6 +43,11 @@ int main () {
 }
 ```
 
+## En C#
+```
+Console.WriteLine("Hello, World!");
+```
+
 ## En Python 
 ```
 print("Hello World !")
@@ -51,14 +56,6 @@ print("Hello World !")
 ## En R
 ```
 print("Hello World !")
-```
-
-
-
-
-## En C#
-```
-Console.WriteLine("Hello, World!");
 ```
 
 ## En HTML
