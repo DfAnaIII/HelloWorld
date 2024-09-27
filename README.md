@@ -222,3 +222,7 @@ Public Module Program
 	End Sub
 End Module
 ```
+## En Bash
+```
+echo "Hello, World!"
+```
