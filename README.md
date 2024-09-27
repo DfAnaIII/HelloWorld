@@ -165,3 +165,8 @@ fn main() {
 }
 ```
 
+## En NodeJs
+```
+console.log("Hello, World!");
+```
+
